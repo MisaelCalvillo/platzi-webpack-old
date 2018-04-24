@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MisaelCalvillo/platzi-webpack-old/issues"
   },
-  "homepage": "https://github.com/MisaelCalvillo/platzi-webpack-old#readme"
+  "homepage": "https://github.com/MisaelCalvillo/platzi-webpack-old#readme",
+  "devDependencies": {
+    "webpack": "3.8.1"
+  }
 }

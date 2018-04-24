@@ -1,0 +1,2 @@
+# Files to be excluded from the repo
+**/node_modules
